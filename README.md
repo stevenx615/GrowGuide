@@ -2,6 +2,8 @@
 
 GrowGuide is an Android application designed to help users manage and care for their plants. Built with Jetpack Compose and following the MVVM (Model-View-ViewModel) architecture, the app offers a rich set of features tailored for gardeners.
 
+<img src="https://github.com/user-attachments/assets/be25be09-4149-4731-99a4-fdd5618ce466" alt="screenshot1" width="200"/> <img src="https://github.com/user-attachments/assets/9d7327f4-1f4c-492d-8614-ade1253a5665" alt="screenshot2" width="200"/> <img src="https://github.com/user-attachments/assets/b147e6d8-43e5-4bf1-b7ea-87eae81c89e7" alt="screenshot3" width="200"/>
+
 ## Features
 
 - **Plant Catalog**: Browse and search through a comprehensive database of plants
